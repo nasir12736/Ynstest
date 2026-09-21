@@ -1,0 +1,16 @@
+{
+  "active": true,
+  "password_required": true,
+  "blocked": [],
+  "users": {
+    "uid_123456": { "name": "Ali", "password": "abc123" }
+  },
+
+  "floating_notice": {
+    "enabled": true,
+    "message": "🔥 Aaj 8 PM pe live session hai! Sab join karein",
+    "position": "bottom-right",
+    "color": "#00ffaa",
+    "duration": 0
+  }
+}
