@@ -7,7 +7,7 @@
   },
 
   "floating_notice": {
-    "enabled": true,
+    "enabled": false,
     "message": "🔥 Aaj 8 PM pe live session hai! Sab join karein",
     "position": "bottom-right",
     "color": "#00ffaa",
